@@ -16,3 +16,6 @@ Analyzed the trend and found the following results :
 6.Most used payment mode 
 
 
+![image](https://github.com/Faizh19/E-com_sales_Analysis/assets/121799783/a1a51d88-4ee1-425d-9bf5-27137d9e3c56)
+
+
